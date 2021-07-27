@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+attr? elements_color
+drawable ic_baseline_flash_off_24
+drawable ic_baseline_flash_on_24
+drawable ic_target
+id camera_preview
+id flash_light_image
+id target_view
+layout preview_view
+string flash_turn_off
+string flash_turn_on
+string icon_to_change_flashlight_state
+styleable PreviewView elements_color

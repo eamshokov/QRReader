@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QrReader</string>
+    <string name="camera_permission_title">Разрешение на доступ к камере</string>
+    <string name="camera_permission_message">Для работы приложения требуется разрешение на доступ к камере</string>
+    <string name="scanner">Сканнер</string>
+    <string name="history">История</string>
+    <string name="profile">Профиль</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="flash_turn_on">Вкл</string>
+    <string name="flash_turn_off">Выкл</string>
+    <string name="result">Результат</string>
+</resources>

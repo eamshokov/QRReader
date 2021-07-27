@@ -1,0 +1,2 @@
+com/taeprog/qrreaderkit/BuildConfig.java
+ com.taeprog.qrreaderkit.BuildConfig

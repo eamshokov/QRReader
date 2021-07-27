@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flash_turn_off">Выкл</string>
+    <string name="flash_turn_on">Вкл</string>
+    <string name="icon_to_change_flashlight_state">Icon to change flashlight state</string>
+    <declare-styleable name="PreviewView">
+        <attr format="color" name="elements_color">#FFFFFFFF</attr>
+    </declare-styleable>
+</resources>
