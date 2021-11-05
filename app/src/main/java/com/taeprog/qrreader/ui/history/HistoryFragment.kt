@@ -23,7 +23,6 @@ class HistoryFragment : Fragment() {
     }
 
     companion object {
-
         @JvmStatic
         fun newInstance(param1: String, param2: String) = HistoryFragment()
 

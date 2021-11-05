@@ -167,7 +167,6 @@ int attr buttonStyle 0x0
 int attr buttonStyleSmall 0x0
 int attr buttonTint 0x0
 int attr buttonTintMode 0x0
-int attr captureMode 0x0
 int attr cardBackgroundColor 0x0
 int attr cardCornerRadius 0x0
 int attr cardElevation 0x0
@@ -388,7 +387,6 @@ int attr fastScrollHorizontalTrackDrawable 0x0
 int attr fastScrollVerticalThumbDrawable 0x0
 int attr fastScrollVerticalTrackDrawable 0x0
 int attr firstBaselineToTopHeight 0x0
-int attr flash 0x0
 int attr floatingActionButtonStyle 0x0
 int attr flow_firstHorizontalBias 0x0
 int attr flow_firstHorizontalStyle 0x0
@@ -563,7 +561,6 @@ int attr layout_keyline 0x0
 int attr layout_optimizationLevel 0x0
 int attr layout_scrollFlags 0x0
 int attr layout_scrollInterpolator 0x0
-int attr lensFacing 0x0
 int attr liftOnScroll 0x0
 int attr liftOnScrollTargetViewId 0x0
 int attr limitBoundsTo 0x0
@@ -686,7 +683,6 @@ int attr percentWidth 0x0
 int attr percentX 0x0
 int attr percentY 0x0
 int attr perpendicularPath_percent 0x0
-int attr pinchToZoomEnabled 0x0
 int attr pivotAnchor 0x0
 int attr placeholderText 0x0
 int attr placeholderTextAppearance 0x0
@@ -951,7 +947,6 @@ int color abc_decor_view_status_guard 0x0
 int color abc_decor_view_status_guard_light 0x0
 int color abc_hint_foreground_material_dark 0x0
 int color abc_hint_foreground_material_light 0x0
-int color abc_input_method_navigation_guard 0x0
 int color abc_primary_text_disable_only_material_dark 0x0
 int color abc_primary_text_disable_only_material_light 0x0
 int color abc_primary_text_material_dark 0x0
@@ -1757,7 +1752,6 @@ int id auto 0x0
 int id autoComplete 0x0
 int id autoCompleteToEnd 0x0
 int id autoCompleteToStart 0x0
-int id back 0x0
 int id barrier 0x0
 int id baseline 0x0
 int id blocking 0x0
@@ -1834,7 +1828,6 @@ int id flash_light_image 0x0
 int id flip 0x0
 int id floating 0x0
 int id forever 0x0
-int id front 0x0
 int id ghost_view 0x0
 int id ghost_view_holder 0x0
 int id gone 0x0
@@ -1889,7 +1882,6 @@ int id material_value_index 0x0
 int id message 0x0
 int id middle 0x0
 int id mini 0x0
-int id mixed 0x0
 int id month_grid 0x0
 int id month_navigation_bar 0x0
 int id month_navigation_fragment_toggle 0x0
@@ -2048,7 +2040,6 @@ int id unchecked 0x0
 int id uniform 0x0
 int id unlabeled 0x0
 int id up 0x0
-int id video 0x0
 int id view_offset_helper 0x0
 int id view_tree_lifecycle_owner 0x0
 int id visible 0x0
@@ -3329,12 +3320,6 @@ int styleable BottomSheetBehavior_Layout_shapeAppearance 11
 int styleable BottomSheetBehavior_Layout_shapeAppearanceOverlay 12
 int[] styleable ButtonBarLayout { 0x0 }
 int styleable ButtonBarLayout_allowStacking 0
-int[] styleable CameraView { 0x0, 0x0, 0x0, 0x0, 0x0 }
-int styleable CameraView_captureMode 0
-int styleable CameraView_flash 1
-int styleable CameraView_lensFacing 2
-int styleable CameraView_pinchToZoomEnabled 3
-int styleable CameraView_scaleType 4
 int[] styleable CardView { 0x1010140, 0x101013f, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0 }
 int styleable CardView_android_minHeight 0
 int styleable CardView_android_minWidth 1

@@ -5,8 +5,10 @@
     <string name="scanner">Сканнер</string>
     <string name="history">История</string>
     <string name="profile">Профиль</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="url_title">Url - адрес</string>
+    <string name="open_in_browser">Открыть ссылку</string>
+    <string name="copy_to_clipboard">Копировать в буффер обмена</string>
+    <string name="result_is_copied_to_clipboard">Скопированно в буффер обмена</string>
     <string name="flash_turn_on">Вкл</string>
     <string name="flash_turn_off">Выкл</string>
     <string name="result">Результат</string>
